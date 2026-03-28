@@ -1,0 +1,5 @@
+{
+  "key": "ctrl+alt+t",
+  "command": "copilotTeams.copyFormattedClipboard",
+  "when": "editorTextFocus"
+}
